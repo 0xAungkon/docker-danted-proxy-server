@@ -1,0 +1,9 @@
+version: "3.8"
+
+services:
+  danted:
+    build: .
+    container_name: danted-server
+    ports:
+      - "1080:1080"
+    restart: always
