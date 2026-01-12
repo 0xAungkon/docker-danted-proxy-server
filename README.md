@@ -1,4 +1,3 @@
-````markdown
 # Danted Server Docker
 
 A minimal, production-ready Docker setup for running a **Dante SOCKS5 proxy server** using Docker and Docker Compose.
@@ -187,5 +186,4 @@ Not intended for anonymous public proxy hosting.
 
 You are responsible for legal, ethical, and policy compliance when operating a SOCKS5 proxy.
 
-```
-```
+
